@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/bk-login" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/onelogin-sdk/demo/OneLoginDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/uc-triple-testbuild" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../api-signature-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../captcha" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../feign-meitrics-api-signature" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../feign-metrics-api-signature" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../leia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../login-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../member" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../metrics-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../netty_module_function" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../openiam-client-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../passport" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../passport-1.0.4/passport" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-boot-cas-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../starter-api-signature" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../triple" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../user-security-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/api-signature-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/project-bak/openiam-client-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/project-bak/passport" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
